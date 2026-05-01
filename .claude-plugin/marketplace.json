@@ -1,0 +1,15 @@
+{
+	"name": "agent-persona",
+	"description": "Stylové persony pro Claude Code: obrozenecká čeština a brněnský hantec.",
+	"owner": {
+		"name": "David Grudl",
+		"email": "david@grudl.com"
+	},
+	"plugins": [
+		{
+			"name": "agent-persona",
+			"source": "./",
+			"description": "Stylové persony pro Claude Code: obrozenecká čeština (Mácha, Erben) a brněnský hantec (KKRD Boys)."
+		}
+	]
+}
