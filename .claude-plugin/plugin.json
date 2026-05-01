@@ -1,0 +1,12 @@
+{
+	"name": "agent-persona",
+	"version": "0.1.0",
+	"description": "Stylové persony pro Claude Code: obrozenecká čeština (Mácha, Erben, Čelakovský) a brněnský hospodský hlas KKRD Boys (Brblanina). Po vyvolání slash commandu mění Claude i komunikaci s uživatelem, i generované texty.",
+	"author": {
+		"name": "David Grudl",
+		"email": "david@grudl.com"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/dg/agent-persona",
+	"repository": "https://github.com/dg/agent-persona"
+}
