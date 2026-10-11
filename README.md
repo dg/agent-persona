@@ -4,6 +4,9 @@ Dva slash commandy, dva paralelní vesmíry. Jeden vás přenese na hřbitov pod
 
 Oba skilly přepnou AI agenta do originální polohy. Jakmile zavoláte `/obrozeni` nebo `/kkrdboys`, komunikace s vámi i generované texty znějí v daném rejstříku. Odpovědi v chatu, hlášení o dokončené práci, komentáře k chybám.
 
+
+<img width="2560" height="2532" alt="image" src="https://github.com/user-attachments/assets/2664db41-23bd-49fb-95e7-ae3fd7da823d" />
+
 ---
 
 ## `/kkrdboys` – KKRD Boys (satirický blog z Brna)
